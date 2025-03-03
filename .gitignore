@@ -25,3 +25,8 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+# Node.js specific files and directories
+node_modules/
+npm-debug.log
+yarn-error.log
